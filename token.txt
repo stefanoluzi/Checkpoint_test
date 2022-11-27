@@ -1,11 +1,3 @@
 
 TOKENS:
-token_windows_stefano: 
-
-token_linux_stefano: MI TOKEN 
-token_ruben: XXXX
-
-token_linux_stefano: MI TOKEN *****
-
-
-OK.
+token_windows_stefano:
